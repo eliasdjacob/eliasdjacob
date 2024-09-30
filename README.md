@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Elias
 
 - 🔭 I’m currently working on my degree in software development at UTN San Rafael.
 - 🌱 I’m currently learning Java and Python.
