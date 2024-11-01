@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Elias Jacob
+## Hi there! 👋 My name is Elias Jacob
 
 - 🔭 I’m currently working on my degree in Software Development, UTN.
 - 🌱 I’m currently learning Java, Python and Javascript.
