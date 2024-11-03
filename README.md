@@ -10,8 +10,5 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arielbetancud22&show_icons=true&locale=en&layout=compact" alt="eliasdjacob" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arielbetancud22&show_icons=true&locale=en" alt="eliasdjacob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arielbetancud22&" alt="eliasdjacob" /></p>
-</div>
 
