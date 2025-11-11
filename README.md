@@ -12,3 +12,6 @@
 
 .....
 
+# 👨‍💻 TecoByte
+
+<img src="https://github.com/user-attachments/assets/b2458c57-7b96-4a92-9fd1-d177adaaa527" alt="file_000000004e6851f68b90d2ba21c2b115" width="500">
