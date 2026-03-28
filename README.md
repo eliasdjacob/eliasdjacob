@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on my degree in Software Development at UTN.
+- 🔭 I’m currently working on my degree in MIS at UGD.
 - 🌱 I’m currently learning Java, Python and Javascript.
 - 👯 I’m looking to collaborate on open source projects in different areas like QA Automation
 - 📫 How to reach me: eliasdavidjacob@gmail.com
